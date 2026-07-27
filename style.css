@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+main, footer {
+    padding: 0 30px 10px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 100%;
+}
+
+th { 
+    text-align: center; 
+    background: #d8d2d2;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+td { 
+    padding: 5px;
+    border: 1px solid black;
+    empty-cells: hide;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.description {
+    text-align: center;
+    font-style: italic;
+}
+
+.disclamer {
+    font-size: smaller;
+}
+
+.product {
+    display: flex;
+}
+
+.photo {
+    flex: 150px;
+    padding: 10px;
+}
+
+.chars {
+    flex: 250px;
+    padding: 10px;
+}
+
+.buy {
+    padding: 10px;
+}
+
+.price {
+    font-size: 30px;
+    color: red;
+}
+
+.oldprice {
+    font-size: 20px;
+    color: blue;
+}
+
+.bucket {
+    background: navy;
+    color: white; 
+    font-size: 16px;
+}
+
+.tobuy {
+    background: red;
+    color: white;
+    font-size: 20px;
+}
