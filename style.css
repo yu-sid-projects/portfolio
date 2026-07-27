@@ -56,17 +56,18 @@ caption {
 }
 
 .photo {
-    flex: min(150px, 40%);
-    
+    flex: 150px;
+    padding: 10px;
 }
 
 .chars {
-    flex: min(200px, 50%);
-    
+    flex: 200px;
+    padding: 10px;
 }
 
 .buy {
-    flex: min(50px, 10%);
+    flex: 50px;
+    padding: 10px;
     
 }
 
