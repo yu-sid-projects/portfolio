@@ -56,17 +56,17 @@ caption {
 }
 
 .photo {
-    width: min(150px, 40%);
+    flex: min(150px, 40%);
     
 }
 
 .chars {
-    width: min(200px, 50%);
+    flex: min(200px, 50%);
     
 }
 
 .buy {
-    width: min(50px, 10%);
+    flex: min(50px, 10%);
     
 }
 
