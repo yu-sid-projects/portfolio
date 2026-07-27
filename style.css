@@ -57,15 +57,15 @@ caption {
 }
 
 .photo {
-    flex: 150px;
+    flex: 40%;
 }
 
 .chars {
-    flex: 200px;
+    flex: 50%;
 }
 
 .buy {
-    
+    flex: 10%;
 }
 
 .price {
