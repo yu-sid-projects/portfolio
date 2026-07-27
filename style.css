@@ -53,21 +53,18 @@ caption {
 
 .product {
     display: flex;
+    gap: 20px;
 }
 
 .photo {
     flex: 150px;
-    padding: 10px;
 }
 
 .chars {
     flex: 200px;
-    padding: 10px;
 }
 
 .buy {
-    
-    padding: 10px;
     
 }
 
