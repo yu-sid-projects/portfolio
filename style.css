@@ -3,7 +3,7 @@ body {
 }
 
 main, footer {
-    padding: 0 30px 10px;
+    padding: 0 10% 5%;
 }
 
 h1, h2 {
@@ -12,14 +12,14 @@ h1, h2 {
 
 img {
     display: block;
-    margin: 20px auto;
+    margin: 20% auto;
     width: 50%;
 }
 
 table {
     border: 1px solid black;
     border-collapse: collapse;
-    margin: 20px auto;
+    margin: 20% auto;
     width: 100%;
 }
 
@@ -38,7 +38,7 @@ td {
 
 caption {
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-bottom: 10%;
 }
 
 .description {
