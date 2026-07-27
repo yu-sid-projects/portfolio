@@ -57,7 +57,7 @@ caption {
     width: 100%;
 }
 
-/*.photo {
+.photo {
     flex: 40%;
 }
 
@@ -67,7 +67,7 @@ caption {
 
 .buy {
     flex: 10%;
-}*/
+}
 
 .price {
     font-size: 30px;
