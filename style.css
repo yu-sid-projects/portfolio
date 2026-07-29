@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-main, footer {
+main, footer, nav {
     padding: 0 10% 5%;
 }
 
