@@ -54,9 +54,16 @@ caption {
 .product {
     display: flex;
     gap: 20px;
-    
+    width: 100%;
 }
 
+@media (max-width: 768px) {
+
+    .product {
+        flex-direction: column;
+    }
+
+}
 .photo {
     flex: 40%;
 }
