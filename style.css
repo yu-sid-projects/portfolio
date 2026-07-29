@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    color: #333;
 }
 
 main, footer, nav {
@@ -21,7 +22,6 @@ table {
     border: 1px solid black;
     border-collapse: collapse;
     margin: 20% auto;
-    width: 100%;
 }
 
 th { 
